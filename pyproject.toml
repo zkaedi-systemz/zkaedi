@@ -1,0 +1,153 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "h-model-z"
+version = "1.0.0"
+description = "Pure Elegance - Harmonic Error Collection and Chaos Shaping System"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "zkaedi-systemz", email = "info@zkaedi.systems"}
+]
+maintainers = [
+    {name = "zkaedi-systemz", email = "info@zkaedi.systems"}
+]
+keywords = [
+    "harmonic", "chaos", "signal-processing", "mathematics", 
+    "softplus", "holomorphic", "polymorphic", "waveform"
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Mathematics",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Multimedia :: Graphics :: Presentation",
+]
+requires-python = ">=3.8"
+dependencies = [
+    "numpy>=1.20.0",
+    "plotly>=5.0.0",
+    "websockets>=11.0",
+    "rich>=13.0.0",
+    "click>=8.0.0",
+    "asyncio-mqtt>=0.13.0",
+    "scipy>=1.7.0",
+    "matplotlib>=3.5.0",
+    "jinja2>=3.0.0",
+    "aiohttp>=3.8.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-asyncio>=0.21.0",
+    "pytest-cov>=4.0.0",
+    "black>=23.0.0",
+    "mypy>=1.0.0",
+    "ruff>=0.1.0",
+    "pre-commit>=3.0.0",
+]
+docs = [
+    "sphinx>=5.0.0",
+    "sphinx-rtd-theme>=1.2.0",
+    "myst-parser>=0.18.0",
+]
+all = [
+    "_h_model_z_[dev,docs]"
+]
+
+[project.urls]
+Homepage = "https://github.com/zkaedi-systemz/zkaedi"
+Documentation = "https://github.com/zkaedi-systemz/zkaedi/blob/main/README.md"
+Repository = "https://github.com/zkaedi-systemz/zkaedi"
+Issues = "https://github.com/zkaedi-systemz/zkaedi/issues"
+
+[project.scripts]
+h-model-z = "_h_model_z_.cli.main:main"
+h-model-z-demo = "_h_model_z_.cli.main:demo"
+h-model-z-serve = "_h_model_z_.cli.main:serve"
+
+[tool.setuptools.packages.find]
+include = ["_h_model_z_*"]
+
+[tool.setuptools.package-data]
+"_h_model_z_" = ["*.html", "*.js", "*.css", "*.json"]
+
+[tool.black]
+line-length = 88
+target-version = ['py38', 'py39', 'py310', 'py311', 'py312']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | build
+  | dist
+)/
+'''
+
+[tool.mypy]
+python_version = "3.8"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+disallow_untyped_decorators = true
+no_implicit_optional = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+warn_no_return = true
+warn_unreachable = true
+strict_equality = true
+
+[tool.ruff]
+select = ["E", "F", "W", "C", "N", "D", "UP", "ANN", "S", "BLE", "FBT", "B", "A", "COM", "C4", "DTZ", "T10", "EM", "EXE", "ISC", "ICN", "G", "INP", "PIE", "T20", "PYI", "PT", "Q", "RSE", "RET", "SLF", "SIM", "TID", "TCH", "ARG", "PTH", "ERA", "PD", "PGH", "PL", "TRY", "NPY", "RUF"]
+ignore = ["D100", "D101", "D102", "D103", "D104", "D105", "ANN101", "ANN102"]
+line-length = 88
+target-version = "py38"
+
+[tool.ruff.pydocstyle]
+convention = "google"
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-ra -q --strict-markers --strict-config"
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+markers = [
+    "slow: marks tests as slow (deselect with '-m \"not slow\"')",
+    "integration: marks tests as integration tests",
+    "unit: marks tests as unit tests",
+]
+
+[tool.coverage.run]
+source = ["_h_model_z_"]
+omit = ["*/tests/*", "*/test_*"]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+]
