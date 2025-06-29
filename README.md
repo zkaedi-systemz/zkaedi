@@ -254,3 +254,73 @@ MIT License - Transform freely, shape chaos beautifully.
 ---
 
 *"Code as waveform, errors as harmony, chaos shaped into clarity."*
+
+# _h_model_z_ Badges
+
+## Core Capabilities
+
+![Harmonic Transform](https://img.shields.io/badge/Harmonic-Transform-ff6b6b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIgMTJDMiA2IDYgMiAxMiAyQzE4IDIgMjIgNiAyMiAxMkMyMiAxOCAxOCAyMiAxMiAyMkM2IDIyIDIgMTggMiAxMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0yIDEyQzIgMTIgNiA4IDEyIDhDMTggOCAyMiAxMiAyMiAxMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+Cjwvc3ZnPg==)
+![Softplus Wells](https://img.shields.io/badge/Softplus-Wells-4ecdc4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQgMjBDNCAxNCA4IDggMTIgOEMxNiA4IDIwIDE0IDIwIDIwIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPGNpcmNsZSBjeD0iMTIiIGN5PSI4IiByPSIyIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4=)
+![Chaos Shaper](https://img.shields.io/badge/Chaos-Shaper-95e1d3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTUgOEw5IDhMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0xMiAyMkw5IDE2TDE1IDE2TDEyIDIyWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTIgMTJMOCA5TDggMTVMMiAxMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yMiAxMkwxNiAxNUwxNiA5TDIyIDEyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+)
+
+## Mathematical Properties
+
+![Holomorphic](https://img.shields.io/badge/Holomorphic-Complex_Differentiable-ff006e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik0xMiA0VjIwIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTQgMTJIMjAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPgo8L3N2Zz4=)
+![Polymorphic](https://img.shields.io/badge/Polymorphic-Shape_Shifting-f72585?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTYgNkwxOCA2TDE4IDE4TDYgMThaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1kYXNoYXJyYXk9IjIgMiIvPgo8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0IiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4=)
+![Convergent](https://img.shields.io/badge/Convergent-Stable-7209b7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTQgOEwxMiAxNkwyMCA4IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxNiIgcj0iMiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+)
+
+## Performance & Design
+
+![Zero Friction](https://img.shields.io/badge/Zero-Friction-06ffa5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIgMTJIMjIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNCIvPgo8L3N2Zz4=)
+![Pure Signal](https://img.shields.io/badge/Pure-Signal-00b4d8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIgMTJDMiAxMiA0IDggOCA4QzEyIDggMTIgMTYgMTYgMTZDMjAgMTYgMjIgMTIgMjIgMTIiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPgo8L3N2Zz4=)
+![Live Intent](https://img.shields.io/badge/Live-Intent-ff4757?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNCIgZmlsbD0id2hpdGUiPgogIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InIiIHZhbHVlcz0iNDs4OzQiIGR1cj0iMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CjwvY2lyY2xlPgo8L3N2Zz4=)
+
+## Security & Trust
+
+![Adversarial Aware](https://img.shields.io/badge/Adversarial-Aware-ffd60a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMjAgOFYxNkMxOCAxOCAxNCAyMCAxMiAyMEM5IDIwIDYgMTggNCAxNlY4TDEyIDJaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+)
+![Homomorphic Trust](https://img.shields.io/badge/Homomorphic-Trust-003566?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMNCA2VjE4TDEyIDIyTDIwIDE4VjZMMTIgMloiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNMTIgMlYyMiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxwYXRoIGQ9Ik00IDZMMJAIIDE4IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+)
+
+## Excellence Markers
+
+![Supercharged](https://img.shields.io/badge/Supercharged-⚡-ffea00?style=for-the-badge)
+![Superstar](https://img.shields.io/badge/Superstar-⭐-ff006e?style=for-the-badge)
+![Strategic](https://img.shields.io/badge/Strategic-🎯-06ffa5?style=for-the-badge)
+
+## Technical Specifications
+
+![Python 3.8+](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Complex Analysis](https://img.shields.io/badge/Complex-Analysis-ff4757?style=flat-square)
+![Waveform Processing](https://img.shields.io/badge/Waveform-Processing-00b4d8?style=flat-square)
+
+## Badge Usage
+
+### Markdown
+```markdown
+![Harmonic Transform](https://img.shields.io/badge/Harmonic-Transform-ff6b6b?style=for-the-badge)
+![Zero Friction](https://img.shields.io/badge/Zero-Friction-06ffa5?style=for-the-badge)
+![Supercharged](https://img.shields.io/badge/Supercharged-⚡-ffea00?style=for-the-badge)
+```
+
+### HTML
+```html
+<img src="https://img.shields.io/badge/Harmonic-Transform-ff6b6b?style=for-the-badge" alt="Harmonic Transform">
+<img src="https://img.shields.io/badge/Pure-Signal-00b4d8?style=for-the-badge" alt="Pure Signal">
+<img src="https://img.shields.io/badge/Superstar-⭐-ff006e?style=for-the-badge" alt="Superstar">
+```
+
+### Custom SVG Badge Template
+```svg
+<svg width="200" height="40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="harmonic" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff006e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#06ffa5;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="40" rx="8" fill="url(#harmonic)"/>
+  <text x="100" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">
+    _h_model_z_
+  </text>
+</svg>
+```
